@@ -13,7 +13,7 @@ public class Recursos {
     public String edad(int edad) {
         String msj;
         if (edad>=21){
-            msj=edad+" Mayor de edad";
+            msj=edad+" Mayor deedad";
         }
         else
         {
