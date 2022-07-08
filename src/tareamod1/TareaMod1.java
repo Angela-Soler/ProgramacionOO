@@ -10,7 +10,7 @@ public class TareaMod1 {
    public static void main(String[] args) {
     
     // Imprimimos el nombre
- System.out.println("Mi nombre es Manuel Enrique Castro");
+ System.out.println("Mi nombre es Manuel Castro");
         
   }
 }
